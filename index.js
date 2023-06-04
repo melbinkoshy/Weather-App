@@ -1,4 +1,4 @@
- const apikey='701c3e2143b42ef7b649c44c11a0b50d';
+ const apikey='';
  const weatherDataEl=document.querySelector('#weather-data');
  const cityInputEl=document.querySelector('#city-input');
  const formEl=document.querySelector('form');
