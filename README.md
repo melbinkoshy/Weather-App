@@ -1,5 +1,5 @@
 # Weather-App
-![Weather App](image.png)
+![Weather App](screenshot.png)
 
 This repository contains a Weather WebApp that provides current weather information for a given location. The application leverages the OpenWeather API to retrieve weather data and displays it in a user-friendly interface.
 ## Features
