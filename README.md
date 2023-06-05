@@ -40,7 +40,7 @@ The Weather WebApp requires an API key from OpenWeather to fetch weather data. F
 
 7. Generate a new API key and copy it to your clipboard.
 
-8. In the Weather WebApp code, open the scripts/script.js file.
+8. In the Weather WebApp code, open the index.js file.
 
 9. Replace the value of the apiKey constant with your API key:
 
